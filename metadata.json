@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Connect",
+  "description": "Nền tảng bên thứ ba kết nối người bệnh với điều dưỡng có chứng chỉ hành nghề (CCHN), bảo hiểm trách nhiệm y tế và quản lý theo dõi chỉ số sinh tồn thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
